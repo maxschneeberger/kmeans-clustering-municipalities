@@ -1,0 +1,399 @@
+GEM_NAME,p_employ_sec_III_19,p_comm_out_19,p_foreign_19
+Bocksdorf,45.28,85.90,2.37
+Burgauberg-Neudauberg,54.55,81.10,4.85
+Eberau,66.67,72.70,11.89
+Gerersdorf-Sulz,63.93,82.50,5.51
+Güssing,77.45,50.70,9.90
+Güttenbach,33.63,80.50,9.09
+Heiligenbrunn,46.67,81.00,2.98
+Neuberg im Burgenland,87.88,87.60,3.76
+Neustift bei Güssing,75.93,82.30,5.29
+Ollersdorf im Burgenland,61.49,80.30,4.29
+Sankt Michael im Burgenland,73.76,73.30,6.20
+Stegersbach,83.75,69.10,10.11
+Stinatz,76.99,86.70,13.19
+Strem,82.11,73.00,5.90
+Tobaj,52.87,77.80,10.32
+Hackerberg,40.91,82.90,9.01
+Wörterberg,70.18,84.10,4.72
+Großmürbisch,60.87,82.70,5.00
+Inzenhof,72.22,82.50,9.25
+Kleinmürbisch,53.85,91.00,0.91
+Tschanigraben,0.00,96.20,3.08
+Heugraben,35.29,86.20,5.05
+Rohr im Burgenland,51.43,86.50,2.12
+Bildein,50.00,78.50,13.69
+Rauchwart,71.11,82.20,5.68
+Moschendorf,36.76,73.20,7.05
+Heiligenkreuz im Lafnitztal,55.33,74.30,11.28
+Jennersdorf,70.75,65.10,6.24
+Minihof-Liebau,63.06,79.10,6.35
+Mogersdorf,72.90,81.40,9.63
+Neuhaus am Klausenbach,69.46,75.60,4.93
+Sankt Martin an der Raab,67.28,81.10,3.54
+Weichselbaum,58.89,86.90,6.01
+Mühlgraben,75.68,85.10,4.28
+Andau,68.59,70.60,5.75
+Apetlon,55.59,69.00,2.17
+Deutsch Jahrndorf,60.95,71.40,18.02
+Frauenkirchen,76.03,66.70,8.01
+Halbturn,48.63,71.40,4.16
+Illmitz,72.55,66.20,4.26
+Nickelsdorf,77.78,76.90,21.07
+Pama,40.33,80.60,18.79
+Pamhagen,70.69,66.00,2.83
+Sankt Andrä am Zicksee,66.48,68.80,5.48
+Tadten,49.26,75.20,5.55
+Wallern im Burgenland,51.19,74.10,5.11
+Zurndorf,67.69,76.00,14.03
+Deutschkreutz,58.19,70.30,6.88
+Draßmarkt,52.17,76.40,5.81
+Frankenau-Unterpullendorf,71.54,84.20,6.52
+Großwarasdorf,68.49,75.30,7.86
+Horitschon,55.27,71.10,7.28
+Kaisersdorf,79.17,82.80,9.14
+Kobersdorf,46.32,78.90,3.69
+Lackenbach,70.14,78.80,7.44
+Lockenhaus,48.97,65.70,6.70
+Lutzmannsburg,86.98,68.70,9.71
+Mannersdorf an der Rabnitz,69.30,82.30,6.69
+Markt Sankt Martin,40.60,80.80,5.57
+Neckenmarkt,43.63,74.30,3.09
+Neutal,43.29,67.80,6.83
+Nikitsch,54.63,78.30,7.85
+Oberpullendorf,71.79,61.20,12.20
+Pilgersdorf,80.00,88.50,2.55
+Piringsdorf,59.00,83.00,2.26
+Raiding,65.10,82.20,2.95
+Ritzing,62.34,82.00,6.67
+Steinberg-Dörfl,65.08,79.00,4.36
+Stoob,58.93,72.90,6.88
+Lackendorf,41.41,83.80,6.32
+Unterfrauenhaid,42.86,81.20,7.61
+Unterrabnitz-Schwendgraben,39.13,80.50,3.25
+Weingraben,48.94,79.20,14.36
+Oberloisdorf,45.12,84.70,3.15
+Deutsch Schützen-Eisenberg,50.83,70.50,6.10
+Hannersdorf,60.38,82.50,6.30
+Kohfidisch,76.86,79.10,4.77
+Markt Neuhodis,57.32,78.90,5.96
+Rechnitz,73.05,64.10,8.37
+Unterkohlstätten,63.92,82.20,3.39
+Badersdorf,37.04,76.90,1.03
+Dellach,54.11,70.50,6.24
+Hermagor-Pressegger See,72.85,35.50,10.61
+Kirchbach,48.79,64.70,6.60
+Kötschach-Mauthen,62.76,41.50,8.13
+Gitschtal,51.61,55.90,9.79
+Lesachtal,50.62,44.10,3.87
+St. Margareten im Rosental,56.45,81.20,4.99
+Zell,50.00,78.10,2.66
+Deutsch-Griffen,51.16,63.70,3.77
+Glödnitz,62.94,67.40,5.16
+Metnitz,37.66,63.80,2.58
+Weitensfeld im Gurktal,54.06,64.50,4.28
+Bad Kleinkirchheim,88.95,41.00,18.48
+Berg im Drautal,48.12,64.10,3.99
+Großkirchheim,54.51,65.00,4.90
+Flattach,56.74,67.10,4.54
+Heiligenblut am Großglockner,76.50,41.60,5.05
+Mallnitz,88.34,57.30,12.45
+Obervellach,69.04,62.00,6.89
+Stall,33.47,76.80,2.32
+Weißensee,88.15,35.80,8.31
+Bleiburg,72.04,66.50,14.18
+Eisenkappel-Vellach,67.75,61.80,10.82
+Feistritz ob Bleiburg,10.33,62.70,8.08
+Globasnitz,48.36,80.00,5.23
+Neuhaus,63.98,77.80,3.38
+Reichenau,71.24,59.30,7.96
+Hollenstein an der Ybbs,52.67,54.90,5.70
+St. Georgen am Reith,28.70,66.30,2.37
+Bad Deutsch-Altenburg,83.83,82.20,22.40
+Hundsheim,75.00,85.10,8.19
+Prellenkirchen,51.61,80.70,15.50
+Drösing,57.02,85.60,5.94
+Dürnkrut,59.00,81.50,6.87
+Ebenthal,61.25,86.10,8.78
+Eckartsau,45.65,79.20,13.71
+Engelhartstetten,67.18,72.10,11.27
+Hohenau an der March,88.01,78.60,12.53
+Jedenspeigen,69.79,85.10,4.80
+Lassee,58.88,76.10,12.99
+Marchegg,77.24,80.70,19.02
+Neusiedl an der Zaya,60.62,83.30,6.43
+Palterndorf-Dobermannsdorf,67.02,83.70,8.20
+Ringelsdorf-Niederabsdorf,47.30,85.70,6.03
+Spannberg,47.64,78.10,6.14
+Velm-Götzendorf,60.22,81.30,5.18
+Eggern,56.48,79.00,1.45
+Eisgarn,45.22,72.30,4.42
+Bad Großpertholz,52.49,64.00,3.57
+Moorbad Harbach,84.32,57.50,5.28
+Haugschlag,61.36,74.60,5.98
+Litschau,54.49,58.70,5.37
+Reingers,41.09,73.50,3.05
+Alberndorf im Pulkautal,50.63,86.60,2.73
+Hadres,62.91,76.80,3.87
+Hardegg,52.31,71.20,4.52
+Mailberg,60.00,73.70,2.87
+Retz,78.78,59.30,5.89
+Retzbach,44.39,70.50,4.44
+Seefeld-Kadolz,64.29,82.10,5.10
+Drosendorf-Zissersdorf,54.24,63.70,4.74
+Geras,56.58,62.10,3.38
+Japons,34.65,74.80,2.90
+Langau,39.29,76.10,3.61
+Weitersfeld,47.79,63.00,2.97
+Albrechtsberg an der Großen Krems,32.57,68.50,1.96
+Lichtenau im Waldviertel,43.97,73.20,2.21
+St. Leonhard am Hornerwald,36.96,64.70,3.35
+Annaberg,61.95,45.80,8.07
+Hainfeld,78.28,58.20,10.75
+Hohenberg,29.19,59.90,7.97
+Kaumberg,60.43,71.10,8.33
+Kleinzell,56.49,59.60,6.68
+Mitterbach am Erlaufsee,83.95,65.50,8.73
+Ramsau,41.06,67.70,12.30
+Rohrbach an der Gölsen,72.93,75.10,4.27
+St. Aegyd am Neuwalde,37.62,53.00,5.65
+Türnitz,70.23,64.60,3.92
+Dorfstetten,47.66,67.70,0.69
+Kirnberg an der Mank,44.00,75.90,1.12
+Münichreith-Laimbach,53.42,73.00,2.74
+Pöggstall,59.33,58.20,4.09
+Raxendorf,50.00,72.50,1.90
+St. Oswald,39.66,66.20,2.76
+Altlichtenwarth,48.48,79.80,8.79
+Bernhardsthal,66.35,79.40,8.52
+Drasenhofen,50.15,67.50,8.81
+Falkenstein,57.29,71.70,6.53
+Hausbrunn,68.75,85.40,10.85
+Herrnbaumgarten,65.00,79.40,6.99
+Kreuzstetten,70.33,82.20,4.25
+Niederleis,65.38,85.20,3.42
+Rabensburg,86.49,88.00,9.21
+Schrattenberg,41.41,72.10,7.59
+Ottenthal,54.41,81.70,2.96
+Mönichkirchen,79.09,66.80,3.34
+Schwarzau im Gebirge,38.30,56.10,10.53
+Frankenfels,52.51,64.10,2.45
+Kirchberg an der Pielach,58.02,66.30,3.57
+Loich,16.47,70.00,2.19
+Michelbach,36.71,73.50,7.17
+Schwarzenbach an der Pielach,29.63,66.80,2.67
+Stössing,43.69,68.60,8.00
+Göstling an der Ybbs,55.65,44.30,3.85
+Lunz am See,60.16,52.40,2.98
+Gastern,23.41,74.80,0.66
+Groß-Siegharts,40.75,65.50,3.33
+Karlstein an der Thaya,19.70,58.10,2.99
+Kautzen,35.69,73.20,3.04
+Ludweis-Aigen,36.05,74.00,1.67
+Raabs an der Thaya,55.99,50.90,3.86
+Waldkirchen an der Thaya,23.08,66.70,2.68
+Bad Schönau,57.72,56.80,2.19
+Gutenstein,48.03,64.20,8.09
+Hochneukirchen-Gschaidt,47.77,78.10,0.86
+Hollenthon,54.94,76.20,2.41
+Kirchschlag in der Buckligen Welt,61.64,56.60,4.36
+Muggendorf,67.62,76.40,7.29
+Rohr im Gebirge,44.29,51.30,5.01
+Schwarzenbach,47.85,73.90,4.10
+Allentsteig,89.41,70.20,2.82
+Arbesbach,45.02,61.30,1.11
+Bärnkopf,80.00,76.00,1.13
+Groß Gerungs,59.61,57.40,1.72
+Gutenbrunn,65.06,81.00,4.65
+Kirchschlag,46.09,71.90,2.10
+Kottes-Purk,30.85,59.30,2.31
+Langschlag,47.07,63.20,1.77
+Martinsberg,33.99,60.50,3.84
+Ottenschlag,71.79,51.70,3.33
+Altmelon,38.86,70.00,0.12
+Sallingberg,50.67,63.90,3.57
+Schönbach,34.73,61.80,2.55
+Bad Traunstein,56.33,64.50,0.59
+St. Radegund,68.75,77.40,9.05
+Tarsdorf,24.35,67.70,8.84
+Haibach ob der Donau,70.77,75.70,2.97
+Gutau,47.00,74.30,2.28
+Kaltenberg,34.48,73.70,1.45
+Königswiesen,58.19,65.50,0.74
+Liebenau,52.35,62.30,0.63
+St. Leonhard bei Freistadt,50.42,74.70,1.80
+Schönau im Mühlkreis,53.42,67.00,1.08
+Unterweißenbach,62.17,56.60,1.33
+Weitersfelden,45.53,70.30,4.01
+Gosau,83.61,55.60,8.11
+Obertraun,86.31,60.40,15.65
+Eschenau im Hausruckkreis,65.37,82.10,1.41
+Heiligenberg,25.00,77.60,3.01
+Natternbach,47.25,71.30,2.91
+Neukirchen am Walde,55.71,72.70,2.76
+St. Agatha,62.92,76.30,1.46
+Steegen,43.15,70.60,2.05
+Peuerbach,60.71,66.30,6.55
+Edlbach,65.95,67.30,9.01
+Hinterstoder,79.78,44.80,12.69
+Molln,26.95,58.20,9.95
+Rosenau am Hengstpaß,40.41,70.50,12.93
+Roßleithen,55.28,70.30,5.08
+Vorderstoder,50.93,60.80,5.26
+Windischgarsten,87.79,64.70,12.89
+Dimbach,27.41,65.40,0.81
+Pabneukirchen,28.04,57.40,3.17
+St. Georgen am Walde,46.21,69.00,0.77
+St. Thomas am Blasenstein,51.92,70.00,2.38
+Waldhausen im Strudengau,50.81,68.10,4.61
+Atzesberg,18.00,80.30,1.59
+Hofkirchen im Mühlkreis,45.15,65.40,4.68
+Kirchberg ob der Donau,67.24,76.70,2.11
+Klaffer am Hochficht,61.62,83.10,6.04
+Niederkappel,25.61,75.90,2.12
+Niederwaldkirchen,62.30,71.30,3.09
+Oberkappel,57.66,75.40,11.10
+Pfarrkirchen im Mühlkreis,40.05,70.30,5.46
+Putzleinsdorf,39.20,74.50,3.90
+Neustift im Mühlkreis,58.14,69.80,6.15
+St. Johann am Wimberg,52.14,73.40,3.15
+St. Veit im Mühlkreis,60.75,76.50,2.53
+Schwarzenberg am Böhmerwald,54.41,78.70,13.69
+Altschwendt,46.30,76.00,4.02
+Engelhartszell,64.30,58.20,9.42
+Enzenkirchen,39.68,72.90,4.00
+Esternberg,62.03,73.50,5.81
+Freinberg,16.27,68.20,24.72
+Kopfing im Innkreis,22.69,64.40,4.65
+Raab,51.83,71.40,7.03
+St. Aegidi,63.37,70.40,2.39
+St. Roman,38.99,71.40,2.16
+St. Willibald,31.71,73.70,3.11
+Vichtenstein,51.95,81.70,15.35
+Waldkirchen am Wesen,75.68,75.10,3.09
+Großraming,29.64,68.40,2.88
+Weyer,70.75,58.70,6.70
+Abtenau,46.43,42.20,10.48
+Annaberg-Lungötz,43.90,55.40,9.10
+Rußbach am Paß Gschütt,59.46,71.30,6.99
+Hintersee,59.34,74.60,6.68
+Bad Hofgastein,84.07,35.70,17.39
+Bad Gastein,87.11,45.80,24.81
+Dorfgastein,68.57,66.20,5.24
+Großarl,66.13,38.80,8.23
+Hüttschlag,52.04,65.20,4.42
+Kleinarl,75.98,57.40,7.64
+Muhr,43.08,79.00,3.78
+Tweng,96.47,23.00,20.00
+Zederhaus,46.29,74.20,2.11
+Krimml,79.85,51.60,12.25
+Rauris,60.81,52.40,5.61
+Saalbach-Hinterglemm,81.94,24.30,19.33
+Unken,61.56,48.30,12.74
+Wald im Pinzgau,71.32,57.40,11.18
+Eibiswald,57.06,60.60,3.77
+Wies,48.86,67.70,3.97
+Eisenerz,68.08,39.50,4.46
+Radmer,64.71,76.30,2.61
+Wald am Schoberpaß,48.85,62.00,3.99
+Altenmarkt bei Sankt Gallen,15.31,62.30,7.71
+Bad Aussee,80.54,43.60,16.50
+Grundlsee,74.21,70.30,4.45
+Wildalpen,42.96,45.30,2.36
+Admont,63.86,57.80,6.44
+Bad Mitterndorf,58.63,50.00,11.09
+Landl,64.05,53.30,3.89
+Sankt Gallen,44.63,49.30,8.51
+Mühlen,45.03,69.70,1.82
+Krakau,46.38,75.40,2.16
+Neumarkt in der Steiermark,62.89,54.10,2.51
+Oberwölz,51.10,58.50,2.32
+Sankt Lambrecht,59.49,56.10,6.86
+Fischbach,57.60,66.90,1.44
+Gasen,41.87,54.60,1.11
+Miesenbach bei Birkfeld,50.32,67.50,0.44
+Ratten,37.73,56.40,3.92
+Rettenegg,56.98,60.10,2.22
+St. Kathrein am Hauenstein,46.51,65.60,1.89
+Strallegg,32.37,68.00,3.13
+Hohentauern,65.00,66.70,5.58
+Pusterwald,27.27,71.20,2.22
+Mariazell,63.86,26.60,7.82
+Tragöß-Sankt Katharein,48.95,70.60,3.65
+Sankt Jakob im Walde,46.69,67.40,2.76
+Sankt Lorenzen am Wechsel,46.59,72.90,0.74
+Wenigzell,41.01,58.80,3.93
+Neudau,74.27,72.60,21.57
+Vorau,62.07,55.90,1.83
+Waldbach-Mönichwald,49.35,62.20,2.44
+Sankt Anna am Aigen,45.40,70.70,1.92
+Sankt Peter am Ottersbach,76.35,73.00,3.12
+Straden,60.74,65.30,3.46
+Längenfeld,63.06,52.50,11.18
+St. Leonhard im Pitztal,93.45,45.90,8.39
+Sölden,93.24,15.90,18.15
+Gschnitz,55.56,75.30,8.02
+Neustift im Stubaital,88.15,51.80,14.15
+Obernberg am Brenner,53.73,71.50,7.05
+St. Sigmund im Sellrain,95.65,81.40,11.86
+Schmirn,52.11,86.20,2.30
+Fiss,88.79,30.10,17.00
+Galtür,78.88,41.20,9.40
+Ischgl,91.55,18.60,9.52
+Kappl,58.86,58.80,3.99
+Kaunerberg,45.28,76.00,3.67
+Kaunertal,89.77,50.80,8.14
+Ladis,87.29,54.70,7.37
+Nauders,76.14,43.80,13.85
+Pfunds,48.68,63.80,10.11
+St. Anton am Arlberg,88.21,33.20,15.95
+Serfaus,93.50,30.70,11.29
+Spiss,72.73,85.70,12.84
+Außervillgraten,36.04,62.90,0.40
+Innervillgraten,38.22,59.20,1.41
+Kals am Großglockner,75.74,62.70,5.83
+Kartitsch,53.73,67.20,2.72
+Obertilliach,57.69,55.20,2.25
+Prägraten am Großvenediger,70.72,73.90,2.31
+St. Jakob in Defereggen,77.65,45.40,4.04
+St. Veit in Defereggen,47.12,71.60,2.15
+Sillian,71.29,54.80,6.66
+Untertilliach,35.29,71.80,8.73
+Virgen,55.46,74.10,3.01
+Bach,79.28,71.30,6.86
+Elbigenalp,78.35,50.20,9.75
+Gramais,90.00,63.20,12.20
+Häselgehr,69.39,78.60,10.20
+Hinterhornbach,76.47,63.00,7.53
+Holzgau,72.48,56.10,13.61
+Jungholz,94.38,36.80,64.63
+Kaisers,61.11,64.10,10.53
+Namlos,66.67,69.20,10.81
+Schattwald,60.94,62.40,21.56
+Steeg,59.56,59.20,4.35
+Zöblen,81.25,68.90,16.81
+Achenkirch,79.88,49.00,19.87
+Brandberg,38.89,70.60,3.05
+Finkenberg,78.54,60.50,12.46
+Gerlos,84.85,19.50,12.53
+Gerlosberg,48.33,78.80,2.16
+Hainzenberg,60.17,78.10,9.58
+Hippach,60.00,76.40,8.88
+Mayrhofen,72.01,38.00,21.99
+Ramsau im Zillertal,57.72,71.10,12.39
+Rohrberg,60.94,71.80,5.72
+Schwendau,66.42,75.40,14.33
+Steinberg am Rofan,55.38,61.20,15.30
+Tux,84.89,22.50,15.73
+Zell am Ziller,82.45,57.30,13.40
+Zellberg,38.98,69.10,5.74
+Gaschurn,62.75,60.40,11.31
+Lech,94.12,16.00,19.04
+Au,49.82,47.40,6.72
+Bizau,48.34,64.20,11.82
+Damüls,87.88,29.70,11.40
+Mittelberg,82.23,12.40,46.98
+Schnepfau,32.59,70.80,13.94
+Schoppernau,67.47,57.80,9.63
+Schröcken,85.71,56.90,15.64
+Warth,90.67,26.10,6.10
